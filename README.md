@@ -10,3 +10,7 @@ A project to manage all the tasks needing to be done
 * Task Outlines
 * Wishlists
 * Progress Summaries 
+
+## Git setup
+* add username to gitconfig
+* add editor preference to gitconfig
