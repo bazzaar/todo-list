@@ -9,7 +9,10 @@ A project to manage all the tasks needing to be done
 * Command History
 * Task Outlines
 * Wishlists
-* Progress Summaries 
+* Progress Summaries
+
+## Tutorials
+* [Linux Command Line](./Linux_Command_Line_Tutorial_files/Index.md)
 
 ## Git setup
 * add username to gitconfig
